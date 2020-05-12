@@ -1,7 +1,7 @@
 # Predicting_Bike_Rentals
 In this project, we predicted the total number of bikes people rented in a given hour. To accomplish this, we created different machine learning models and evaluated their performance.
 
-The file which we worked upon, contains 17380 rows, with each row representing the number of bike rentals for a single hour of a single day. The data can be downloaded from the [University of California, Irvine's website](http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
+The file which we worked upon, contains `17380` rows, with each row representing the number of bike rentals for a single hour of a single day. The data can be downloaded from the [University of California, Irvine's website](http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
 
 Below are the descriptions for the relevant columns:
 
